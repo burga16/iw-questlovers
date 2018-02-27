@@ -10,6 +10,39 @@
 	<h1>Matches</h1>
 
 	<hr/>
+	<div class="columns">
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+	</div>
+	<div class="columns">
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="column">
+			<h2>Usuario</h2>
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+	</div>
+	
+	
+	
+	
+	
 	
 	</div>
 	
