@@ -19,6 +19,9 @@
 			que nos hacen ver que tenían cierta comunicación, esto mediante 
 			sonidos guturales y también perduran las pinturas rupestres que 
 			pueden ser consideradas como el primer medio de comunicación.
+			<form action="/hacer_quest">
+    			<input type="submit" value="Empezar esta Quest" />
+			</form>
 			</p>
 		</div>
 		<div class="quest">
