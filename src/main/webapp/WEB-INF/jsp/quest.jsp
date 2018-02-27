@@ -30,15 +30,6 @@
 			pueden ser consideradas como el primer medio de comunicación.
 			</p>
 		</div>
-		<div class="quest">
-			<h3>Titulo de la Quest</h3>
-			<p>Por la naturaleza el hombre siempre se ha comunicado, 
-			si consideramos la época prehistorica, encontramos registros 
-			que nos hacen ver que tenían cierta comunicación, esto mediante 
-			sonidos guturales y también perduran las pinturas rupestres que 
-			pueden ser consideradas como el primer medio de comunicación.
-			</p>
-		</div>
 	</div>
 	
 	<hr/>
