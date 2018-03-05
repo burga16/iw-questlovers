@@ -43,21 +43,7 @@
 					</button>
 					</p>							
 				</div>
-				<div class="reporte">
-					<p>Usuario que realiza el reporte</p>
-					<p>Usuario que se reporta</p>
-					<p>Comentario del reporte...............
-					...................................
-					...................................
-					<button type="button" class="btn btn-success" aria-label="Left Align">
-  						<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-					</button>
-					<button type="button" class="btn btn-danger" aria-label="Left Align">
-  						<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
-					</button>
-					
-					</p>	
-				</div>
+				
 		</div>
 	</div>
 </div>
