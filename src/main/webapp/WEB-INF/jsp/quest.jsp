@@ -14,15 +14,16 @@
 	<div class="quests-list">
 		<div class="quest">
 			<h3>Titulo de la Quest</h3>
-			<p>Por la naturaleza el hombre siempre se ha comunicado, 
+			<p>
+			Por la naturaleza el hombre siempre se ha comunicado, 
 			si consideramos la época prehistorica, encontramos registros 
 			que nos hacen ver que tenían cierta comunicación, esto mediante 
 			sonidos guturales y también perduran las pinturas rupestres que 
 			pueden ser consideradas como el primer medio de comunicación.
-			<form action="/hacer_quest">
-    			<input type="submit" value="Empezar esta Quest" />
-			</form>
 			</p>
+			<form action="/hacer_quest">
+    			<input type="submit" value="Empezar esta Quest">
+			</form>
 		</div>
 		<div class="quest">
 			<h3>Titulo de la Quest</h3>
