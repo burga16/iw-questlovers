@@ -20,3 +20,15 @@
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
 }
+.lista-reportes{
+	background-color: #518ebf; 
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.reporte{
+	background-color:#8a909f;
+	margin: 2%;
+	margin-top: 2%;
+	border-style: solid;
+    border-width: 2px;
+}
