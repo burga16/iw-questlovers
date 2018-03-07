@@ -56,5 +56,9 @@ public class RootController {
 	public String hacer_quest() {
 		return "hacer_quest";
 	}
+	@GetMapping("/match")
+	public String match() {
+		return "match";
+	}
 	
 }
