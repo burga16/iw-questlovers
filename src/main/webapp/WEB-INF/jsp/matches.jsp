@@ -4,6 +4,8 @@
 <%@ taglib prefix="sec"
 	uri="http://www.springframework.org/security/tags"%>
 
+
+
 <%@ include file="../jspf/header.jspf"%>
 
 <div class="starter-template">
@@ -13,28 +15,36 @@
 	<div class="columns">
 		<div class="column">
 			<h2>Usuario</h2>
+			<a href="/match">
+				<img src="admin/photo/1" class="img-rounded img-responsive img-center">
+			</a>
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 		<div class="column">
 			<h2>Usuario</h2>
+			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 		<div class="column">
 			<h2>Usuario</h2>
+			<img src="admin/photo/1" class="img-rounded img-responsive img-center">		
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 	</div>
 	<div class="columns">
 		<div class="column">
 			<h2>Usuario</h2>
+			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 		<div class="column">
 			<h2>Usuario</h2>
+			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 		<div class="column">
 			<h2>Usuario</h2>
+			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 	</div>

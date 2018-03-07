@@ -7,7 +7,6 @@
   "disallowQuotedKeysInObjects": "allButReserved",
   "disallowSpaceAfterPrefixUnaryOperators": ["!"],
   "disallowSpaceBeforeBinaryOperators": [","],
-  "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
   "disallowSpaceBeforePostfixUnaryOperators": ["++", "--"],
   "disallowSpacesInNamedFunctionExpression": { "beforeOpeningRoundBrace": true },
   "disallowSpacesInsideArrayBrackets": true,
