@@ -49,19 +49,12 @@
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 	</div>
-	
-	
-	
-	
-	
-	
-	</div>
+</div>
 	
 	<hr/>
 	
 	
 
 	<%@ include file="../jspf/authinfo.jspf"%>		
-</div>
 
 <%@ include file="../jspf/footer.jspf"%>
