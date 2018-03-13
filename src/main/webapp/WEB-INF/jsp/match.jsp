@@ -20,15 +20,15 @@
 		  <!-- Wrapper for slides -->
 		  <div class="carousel-inner">
 		    <div class="item active">
-		      <img src="admin/photo/1" class="img-center" alt="1">
+		      <img src="${s}/img/perfil.jpg" class="img-center" alt="1">
 		    </div>
 		
 		    <div class="item">
-		      <img src="admin/photo/1" class="img-center" alt="2">
+		      <img src="${s}/img/perfil.jpg" class="img-center" alt="2">
 		    </div>
 		
 		    <div class="item">
-		      <img src="admin/photo/1" class="img-center" alt="3">
+		      <img src="${s}/img/perfil.jpg" class="img-center" alt="3">
 		    </div>
 		  </div>
 		
