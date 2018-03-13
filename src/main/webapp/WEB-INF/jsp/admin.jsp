@@ -15,7 +15,7 @@
 	<div class="columns">
 		<div class="column">
 			<h4>Añadir nuevo editor</h4>
-			<form action="/admin/addUser" method="post">
+			<form action="/admin/addEditor" method="post">
 				<label for="user">user<input name="user"/></label>
 				<label for="password">password<input type="password" name="password"/></label>
 				<label for="email">email<input type="text" name="email"></label>
