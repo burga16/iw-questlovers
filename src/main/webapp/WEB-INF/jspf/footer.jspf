@@ -1,5 +1,5 @@
 <%@ page pageEncoding="UTF-8"%>
-<!-- /.container -->
+</div> <!-- /.container -->
           
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="${s}/js/jquery.min.js"></script>
