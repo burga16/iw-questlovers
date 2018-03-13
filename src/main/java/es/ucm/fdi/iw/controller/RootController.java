@@ -60,5 +60,9 @@ public class RootController {
 	public String match() {
 		return "match";
 	}
+	@GetMapping("/reportes")
+	public String reportes() {
+		return "reportes";
+	}
 	
 }

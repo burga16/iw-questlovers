@@ -35,6 +35,9 @@
 		<sec:authorize access="hasRole('ADMIN')">
 			<li><a href="/login">Login</a></li>
 	      	<li><a href="/admin">Admin</a></li>
+	      	<li><a href="">Editores</a></li>
+	      	<li><a href="">Estadísticas</a></li>
+	      	<li><a href="/reportes">Reportes</a></li>
 	     	<li><a href="/user">Mi Cuenta</a></li>          
 	      	<li><a href="/logout">Logout</a></li>
 		</sec:authorize>
@@ -80,5 +83,6 @@
         </div>
       </div>
     </nav>
--->
-    <div class="container">
+
+    <div class="container"></div>
+        -->
