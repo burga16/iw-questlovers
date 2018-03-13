@@ -6,61 +6,55 @@
 
 
 
+
 <%@ include file="../jspf/header.jspf"%>
 
 <div class="starter-template">
 	<h1>Matches</h1>
 
 	<hr/>
-	<div class="columns">
-		<div class="column">
+	<div class="row">
+		<div class="col-md-4 col-xs-12">
 			<h2>Usuario</h2>
 			<a href="/match">
-				<img src="admin/photo/1" class="img-rounded img-responsive img-center">
+				<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">
 			</a>
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
-		<div class="column">
+		<div class="col-md-4 col-xs-12">
 			<h2>Usuario</h2>
-			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
+			<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
-		<div class="column">
+		<div class="col-md-4 col-xs-12">
 			<h2>Usuario</h2>
-			<img src="admin/photo/1" class="img-rounded img-responsive img-center">		
-			<p>Foto y algunos datos basicos del match</p>
-		</div>
-	</div>
-	<div class="columns">
-		<div class="column">
-			<h2>Usuario</h2>
-			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
-			<p>Foto y algunos datos basicos del match</p>
-		</div>
-		<div class="column">
-			<h2>Usuario</h2>
-			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
-			<p>Foto y algunos datos basicos del match</p>
-		</div>
-		<div class="column">
-			<h2>Usuario</h2>
-			<img src="admin/photo/1" class="img-rounded img-responsive img-center">
+			<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">		
 			<p>Foto y algunos datos basicos del match</p>
 		</div>
 	</div>
-	
-	
-	
-	
-	
-	
+	<div class="row">
+		<div class="col-md-4 col-xs-12">
+			<h2>Usuario</h2>
+			<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="col-md-4 col-xs-12">
+			<h2>Usuario</h2>
+			<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
+		<div class="col-md-4 col-xs-12">
+			<h2>Usuario</h2>
+			<img src="${s}/img/perfil.jpg" class="img-rounded img-responsive img-center">
+			<p>Foto y algunos datos basicos del match</p>
+		</div>
 	</div>
+</div>
 	
 	<hr/>
 	
 	
 
 	<%@ include file="../jspf/authinfo.jspf"%>		
-</div>
 
 <%@ include file="../jspf/footer.jspf"%>

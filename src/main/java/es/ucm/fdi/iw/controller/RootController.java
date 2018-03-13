@@ -63,6 +63,10 @@ public class RootController {
 	@GetMapping("/reportes")
 	public String reportes() {
 		return "reportes";
+  }
+	@GetMapping("/messages") 
+	public String messages(){
+		return "messages";
 	}
 	
 }
