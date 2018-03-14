@@ -1,9 +1,8 @@
-.quests-list{
-	background-color:#8a909b
-}
 .quest{
-	background-color:#ffff9b;
-	margin: 5%;
+	background-color:#fff;
+}
+.list-quest{
+	list-style:none;
 }
 .columns {
 	display: flex;
@@ -51,4 +50,19 @@
 	padding-left: 25%;
 	margin-bottom: 40px;
 	position: relative;
+}
+/*modificacion color navbar*/
+.navbar-default{
+  background-color:#13c1ac;
+}
+.navbar-default .navbar-brand{
+	color: #FFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #FFF;
+}
+
+.navbar-items{
+	color: #FFF;
 }
