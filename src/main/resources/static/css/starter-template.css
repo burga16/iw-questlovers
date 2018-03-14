@@ -10,3 +10,17 @@ table td, table th {
   spacing: 0;
   border: 1px solid gray;
 }
+.mycontent-left {
+  padding: 15px;
+  text-align: left;
+}
+.mycontent-right {
+  padding: 15px;
+  text-align: left;
+}
+.panel-footer{
+	text-align: right;
+}
+.usuario-reporta{
+	text-align: left;
+}
