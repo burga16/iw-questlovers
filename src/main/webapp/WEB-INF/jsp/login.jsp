@@ -14,11 +14,11 @@
 	            <legend>Please Login</legend>
 	            <div class="form-group">
 		            <input class="form-control login-field" value=""
-						placeholder="Enter your username" id="username" type="text"/>
+						placeholder="Enter your username" id="username" type="text" name="username"/>
 					<label class="login-field-icon fui-user" for="username"></label> 
 		        </div>    
 		        <div class="form-group">
-		        	<input class="form-control login-field" value="" placeholder="Password" id="password" type="password">
+		        	<input class="form-control login-field" value="" placeholder="Password" id="password" name="password" type="password">
              		<label class="login-field-icon fui-lock" for="password"></label>
 	            </div>
 	            <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
