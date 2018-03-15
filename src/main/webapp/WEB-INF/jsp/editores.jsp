@@ -7,48 +7,71 @@
 <%@ include file="../jspf/header.jspf"%>
 
 <div class="starter-template">
-	<h1>Admin</h1>
+	<h1>Editores</h1>
 
 	<hr />
 
-	<div class="columns">
-		<div class="column">
-			<h4>Añadir nuevo editor</h4>
-			<form action="/admin/addEditor" method="post">
-				<label for="user">user<input name="user" /></label> <label
-					for="password">password<input type="password"
-					name="password" /></label> <label for="email">email<input
-					type="text" name="email"></label> <input type="hidden"
-					name="${_csrf.parameterName}" value="${_csrf.token}" />
-
-				<div class="form-actions">
-					<button type="submit" class="btn">Crear editor</button>
-				</div>
-			</form>
-		</div>
-
-		<div class="column">
-			<h4>Lista de editores</h4>
-			<table>
-				<thead>
-					<tr>
-						<th>id
-						<th>editor
-						<th>historias publicadas
-					</tr>
-				</thead>
-				<tbody>
-					<c:forEach items="${users}" var="u">
-						<tr>
-							<td>${u.id}
-							<td>${u.login}
-							<td>${u.roles}
-						</tr>
-					</c:forEach>
-				</tbody>
-			</table>
+	<div class="panel-group">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">
+					Añadir editor&nbsp;&nbsp;
+					<button class="btn-circle" data-toggle="collapse" data-target="#collapse1">
+						<span class="glyphicon glyphicon-plus"></span>
+					</button>
+				</h3>
+			</div>
+			<div id="collapse1" class="panel-collapse collapse">
+				<div class="panel-body">Panel Body</div>
+				<div class="panel-footer">Panel Footer</div>
+			</div>
 		</div>
 	</div>
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>Select</th>
+				<th>Nombre</th>
+				<th>Apellidos</th>
+				<th>Email</th>
+				<th>Teléfono</th>
+				<th>Usuario</th>
+				<th>Contraseña</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><div class="checkbox checkbox-success"><input type="checkbox" id="checkbox1" class="styled"><label></label></div></td>
+				<td>John</td>
+				<td>Doe</td>
+				<td>john@example.com</td>
+				<td>636123123</td>
+				<td>Doe</td>
+				<td>Doe</td>
+			</tr>
+			<tr>
+				<td><div class="checkbox checkbox-success"><input type="checkbox" id="checkbox2" class="styled"><label></label></div></td>
+				<td>Mary</td>
+				<td>Moe</td>
+				<td>mary@example.com</td>
+				<td>636123123</td>
+				<td>Doe</td>
+				<td>Doe</td>
+			</tr>
+			<tr>
+				<td><div class="checkbox checkbox-success"><input type="checkbox" id="checkbox3" class="styled"><label></label></div></td>
+				<td>July</td>
+				<td>Dooley</td>
+				<td>july@example.com</td>
+				<td>636123123</td>
+				<td>Doe</td>
+				<td>Doe</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<button type="button" id="btn-eliminar-editor"class="btn btn-danger btn-block">Eliminar editor/es</button>
+
 </div>
 
 <%@ include file="../jspf/footer.jspf"%>
