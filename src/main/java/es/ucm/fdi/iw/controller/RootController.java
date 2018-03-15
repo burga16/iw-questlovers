@@ -68,5 +68,9 @@ public class RootController {
 	public String messages(){
 		return "messages";
 	}
+	@GetMapping("/editores") 
+	public String editores(){
+		return "editores";
+	}
 	
 }
