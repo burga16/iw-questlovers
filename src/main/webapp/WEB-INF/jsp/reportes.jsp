@@ -28,7 +28,7 @@
 								ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 								nostrud exercitation ullamco laboris nisi ut aliquip ex ea
 								commodo consequat.</div>
-							<div class="panel-footer">
+							<div class="panel-footer panel-footer-reporte">
 								<div class="usuario-reporta">Usuario que reporta: Nick</div>
 								<button type="button" class="btn btn-success"
 									aria-label="Left Align">
@@ -54,7 +54,7 @@
 								ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 								nostrud exercitation ullamco laboris nisi ut aliquip ex ea
 								commodo consequat.</div>
-							<div class="panel-footer">
+							<div class="panel-footer panel-footer-reporte">
 								<div class="usuario-reporta">Usuario que reporta: Nick</div>
 								<button type="button" class="btn btn-success"
 									aria-label="Left Align">
@@ -87,7 +87,7 @@
 								ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 								nostrud exercitation ullamco laboris nisi ut aliquip ex ea
 								commodo consequat.</div>
-							<div class="panel-footer">
+							<div class="panel-footer panel-footer-reporte">
 								<div class="usuario-reporta">Usuario que reporta: Nick</div>
 								<span class="label label-success">Aceptado</span>
 							</div>
@@ -106,7 +106,7 @@
 								ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 								nostrud exercitation ullamco laboris nisi ut aliquip ex ea
 								commodo consequat.</div>
-							<div class="panel-footer">
+							<div class="panel-footer panel-footer-reporte">
 								<div class="usuario-reporta">Usuario que reporta: Nick</div>
 								<span class="label label-danger">Rechazado</span>
 							</div>
