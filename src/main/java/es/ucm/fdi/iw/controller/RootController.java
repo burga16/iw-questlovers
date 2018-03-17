@@ -72,5 +72,9 @@ public class RootController {
 	public String editores(){
 		return "editores";
 	}
+	@GetMapping("/registro") 
+	public String registro(){
+		return "registro";
+	}
 	
 }

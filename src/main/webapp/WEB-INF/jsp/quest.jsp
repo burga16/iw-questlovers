@@ -13,7 +13,7 @@
             <h3>Titulo de la Quest</h3>
             <ul class="list-quest">
                 <li class="quest col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -22,7 +22,7 @@
                     </div>
                 </li>
                 <li class="quest  col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -31,7 +31,7 @@
                     </div>
                 </li>
                 <li class="quest  col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -40,7 +40,7 @@
                     </div>
                 </li>
                 <li class="quest  col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -49,7 +49,7 @@
                     </div>
                 </li>
                 <li class="quest col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -58,7 +58,7 @@
                     </div>
                 </li>
                 <li class="quest col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -67,7 +67,7 @@
                     </div>
                 </li>
                 <li class="quest col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">
@@ -76,7 +76,7 @@
                     </div>
                 </li>
                 <li class="quest col-md-3 col-xs-12">
-                    <div class="quest-container">
+                    <div class="quest-container tile">
                         <h6>title</h6>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
                         <form action="/hacer_quest">

@@ -30,11 +30,11 @@ table td, table th {
 	border-radius: 50%;
 	background-color: #13c1ac;
 	border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
 }
 .btn-circle:focus{
 	outline: none;

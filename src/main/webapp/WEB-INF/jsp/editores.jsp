@@ -7,6 +7,7 @@
 <%@ include file="../jspf/header.jspf"%>
 
 <div class="starter-template">
+
 	<h1>Editores</h1>
 
 	<hr />
