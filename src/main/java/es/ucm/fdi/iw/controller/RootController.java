@@ -76,5 +76,9 @@ public class RootController {
 	public String registro(){
 		return "registro";
 	}
+	@GetMapping("/quest_admin") 
+	public String quest_admin(){
+		return "quest_admin";
+	}
 	
 }
